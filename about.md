@@ -1,10 +1,12 @@
 ## About 
 
-I blog here.  This is a page that tells people about me.
+I'm Derek. https://github.com/DerekV/.   
+
+The github link for this site is https://github.com/DerekV/my-blog
 
 ## Contact Me
 
-You can put some contact information here
+@derekverlee
 
 [title: About]: /
 [order: 20]: /
