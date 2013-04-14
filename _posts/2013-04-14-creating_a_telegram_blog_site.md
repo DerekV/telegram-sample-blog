@@ -1,8 +1,8 @@
 title: Creating a Telegram Blog Site
 menu: HelloWorld
 
-## Blog Quickstart with Telegram and Github
-
+Blog Quickstart with Telegram and Github
+===================
 # Sign up for [http://telegr.am|telegram], and log in.
 # Link telegram with your GitHub account.
 # On GitHub, fork [https://github.com/telegr-am/my-blog:my-blog].
