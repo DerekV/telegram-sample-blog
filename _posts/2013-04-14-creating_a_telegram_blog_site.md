@@ -19,6 +19,6 @@ Blog Quickstart with Telegram and Github
 
     Commit and push (or make the edits right on GitHub)
     
-5. On telegram, log in and add a github site, pointing it to your fork.
+5. On telegram, use the `add a site hosted in github` button to add a new site, pointing it to your fork.
 
 6. TADA!
