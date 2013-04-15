@@ -8,7 +8,7 @@ Blog Quickstart with Telegram and Github
 
 2. Link telegram with your GitHub account.
 
-3. On GitHub, fork https://github.com/telegr-am/my-blog:my-blog.
+3. On GitHub, fork https://github.com/telegr-am/my-blog
 
 4. Add a file under _posts, name it with the date, and then title (e.g. YYYY-MM-DD-This\_is\_my\_blog\_post.md), type your post in markdown.  Add a title and menu metainfo to the top of the file like this : 
 
@@ -17,6 +17,8 @@ Blog Quickstart with Telegram and Github
 
         ## Blog Quickstart with Telegram and Github
 
-5. On telegram, hit refresh.
+    Commit and push (or make the edits right on GitHub)
+    
+5. On telegram, log in and add a github site, pointing it to your fork.
 
 6. TADA!
